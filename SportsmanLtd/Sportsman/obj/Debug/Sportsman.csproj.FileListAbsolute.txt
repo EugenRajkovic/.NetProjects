@@ -1,0 +1,7 @@
+C:\Users\Eugen\source\repos\SportsmanLtd\Sportsman\bin\Debug\Proba2.exe.config
+C:\Users\Eugen\source\repos\SportsmanLtd\Sportsman\bin\Debug\Proba2.exe
+C:\Users\Eugen\source\repos\SportsmanLtd\Sportsman\bin\Debug\Proba2.pdb
+C:\Users\Eugen\source\repos\SportsmanLtd\Sportsman\obj\Debug\Sportsman.csprojResolveAssemblyReference.cache
+C:\Users\Eugen\source\repos\SportsmanLtd\Sportsman\obj\Debug\Sportsman.csproj.CoreCompileInputs.cache
+C:\Users\Eugen\source\repos\SportsmanLtd\Sportsman\obj\Debug\Proba2.exe
+C:\Users\Eugen\source\repos\SportsmanLtd\Sportsman\obj\Debug\Proba2.pdb

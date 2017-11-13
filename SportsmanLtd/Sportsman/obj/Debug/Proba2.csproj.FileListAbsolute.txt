@@ -1,0 +1,6 @@
+C:\Users\Eugen\Documents\Visual Studio 2015\Projects\Sportsman\Proba2\bin\Debug\Proba2.exe.config
+C:\Users\Eugen\Documents\Visual Studio 2015\Projects\Sportsman\Proba2\bin\Debug\Proba2.exe
+C:\Users\Eugen\Documents\Visual Studio 2015\Projects\Sportsman\Proba2\bin\Debug\Proba2.pdb
+C:\Users\Eugen\Documents\Visual Studio 2015\Projects\Sportsman\Proba2\obj\Debug\Proba2.exe
+C:\Users\Eugen\Documents\Visual Studio 2015\Projects\Sportsman\Proba2\obj\Debug\Proba2.pdb
+C:\Users\Eugen\Documents\Visual Studio 2015\Projects\Sportsman\Proba2\obj\Debug\Proba2.csprojResolveAssemblyReference.cache
