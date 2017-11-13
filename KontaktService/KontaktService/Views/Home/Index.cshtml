@@ -1,0 +1,78 @@
+﻿
+@section head {
+    <link href="http://js-grid.com/css/jsgrid.min.css" rel="stylesheet" />
+    <link href="http://js-grid.com/css/jsgrid-theme.min.css" rel="stylesheet" />
+}
+
+<div id="jsGrid"></div>
+
+@section scripts {
+    <script src="http://js-grid.com/js/jsgrid.min.js"></script>
+    <script>
+    $(function() {       
+
+        $("#jsGrid").jsGrid({
+            height: "50%",
+            width: "90%",
+
+            filtering: true,
+            inserting: true,
+            editing: true,
+            sorting: true,
+            paging: true,
+            autoload: true,
+
+            pageSize: 10,
+            pageButtonCount: 5,
+
+            deleteConfirm: "Do you really want to delete client?",
+
+            controller: {
+                loadData: function(filter) {
+                    return $.ajax({
+                        type: "GET",
+                        url: "/api/Kontakts",
+                        data: filter,
+                        dataType: "json"
+                    });
+                },
+
+                insertItem: function(item) {
+                    return $.ajax({
+                        type: "POST",
+                        url: "/api/Kontakts",
+                        data: item,
+                        dataType: "json"
+                    });
+                },
+
+                updateItem: function(item) {
+                    return $.ajax({
+                        type: "PUT",
+                        url: "/api/Kontakts/" + item.ID,
+                        data: item,
+                        dataType: "json"
+                    });
+                },
+
+                deleteItem: function(item) {
+                    return $.ajax({
+                        type: "DELETE",
+                        url: "/api/Kontakts/" + item.ID,
+                        dataType: "json"
+                    });
+                }
+            },
+
+            fields: [
+                { name: "Ime", type: "text", width: 100 },
+                { name: "Prezime", type: "text", width: 100 },              
+                { name: "Grad", type: "text", width: 150 },
+                { name: "Svi telefoni", type: "text" },
+                { type: "control" }
+            ]
+        });
+
+    });
+    </script>
+}
