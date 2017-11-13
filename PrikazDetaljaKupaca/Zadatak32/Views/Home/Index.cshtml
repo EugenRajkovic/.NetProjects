@@ -1,0 +1,41 @@
+﻿@using Zadatak32.Models
+@{
+    ViewBag.Title = "Index";
+    List<Kupac> kupciList = (List<Kupac>)ViewBag.kupci;
+    var kupci = new SelectList(items: kupciList, dataTextField: "PunoIme", dataValueField: "IDKupac");
+}
+
+<h2>Prikaz kupaca</h2>
+
+<form method="get" id="formGradovi">
+    <div class="form-group">
+        <label>Grad:</label>
+        <br />
+        @Html.DropDownList(name: "gradID", selectList:(IEnumerable<SelectListItem>)ViewBag.gradovi, htmlAttributes: new { @class = "form-control", @id = "ddlGradovi" })
+    </div>
+</form>
+
+
+<form method="post" action="@Url.Action("PrikaziDetaljeKupca","Home")" id="formKupci">
+    <div id="kontejner">
+        @if (kupciList.Count > 0)
+        {
+            <div class="form-group">
+                <label>Kupci:</label>
+                <br />
+            @Html.DropDownList(name:"kupacID",selectList:kupci, htmlAttributes: new { @class="form-control", @id="ddlKupci", @size="4"})
+            </div>
+        }
+    </div>
+</form>
+
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script>
+    $("#ddlGradovi").change(function () {
+        $("#formGradovi").submit();
+    });
+
+    $("#ddlKupci").change(function () {
+        $("#formKupci").submit();
+    });
+</script>

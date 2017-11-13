@@ -1,0 +1,40 @@
+﻿@model Zadatak31.Models.Kupac
+
+@Html.HiddenFor(model => model.IDKupac)
+
+<div class="form-horizontal">
+    <div class="form-group">
+        @Html.LabelFor(model => model.Ime, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Ime, new { htmlAttributes = new { @class = "form-control", @readonly = true } })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Prezime, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Prezime, new { htmlAttributes = new { @class = "form-control", @readonly = true } })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control", @readonly = true } })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.OIB, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.OIB, new { htmlAttributes = new { @class = "form-control", @readonly = true } })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            @Html.ActionLink(linkText:"Azuriraj podatke",actionName:"Edit",controllerName:"Home",routeValues:new { idKupac = Model.IDKupac}, htmlAttributes: new {@class = "btn btn-default"})
+        </div>
+    </div>
+</div>
+

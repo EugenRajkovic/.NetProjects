@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2008
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadatak32", "..\..\..\Documents\Visual Studio 2015\Projects\RWA_M2\Zadatak32\Zadatak32.csproj", "{E1D7BF8D-5F8B-46D2-849B-DA9E33707409}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadatak32", "Zadatak32\Zadatak32.csproj", "{E1D7BF8D-5F8B-46D2-849B-DA9E33707409}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

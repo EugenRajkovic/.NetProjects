@@ -1,0 +1,105 @@
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\roslyn\csc.exe
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\roslyn\System.Collections.Immutable.dll
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\roslyn\vbc.exe
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\roslyn\VBCSCompiler.exe
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\roslyn\VBCSCompiler.exe.config
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\Zadatak31.dll.config
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\Zadatak31.dll
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\Zadatak31.pdb
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\Antlr3.Runtime.dll
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\Microsoft.AI.Web.dll
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\Microsoft.AI.WindowsServer.dll
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\Microsoft.ApplicationInsights.dll
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\Microsoft.Web.Infrastructure.dll
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\Newtonsoft.Json.dll
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\System.Web.Helpers.dll
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\System.Web.Mvc.dll
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\System.Web.Optimization.dll
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\System.Web.Razor.dll
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\System.Web.WebPages.Deployment.dll
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\System.Web.WebPages.dll
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\System.Web.WebPages.Razor.dll
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\WebGrease.dll
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\Microsoft.AI.Web.xml
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\Microsoft.AI.WindowsServer.xml
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\Microsoft.ApplicationInsights.xml
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\System.Web.Helpers.xml
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\System.Web.Mvc.xml
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\System.Web.Optimization.xml
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\System.Web.Razor.xml
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\System.Web.WebPages.xml
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\System.Web.WebPages.Deployment.xml
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\System.Web.WebPages.Razor.xml
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\Antlr3.Runtime.pdb
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\bin\Newtonsoft.Json.xml
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\obj\Debug\Zadatak31.dll
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak31\obj\Debug\Zadatak31.pdb
+C:\Users\Eugen\Documents\Visual Studio 2015\Projects\RWA_M2\Zadatak31\obj\Debug\Zadatak31.csproj.CoreCompileInputs.cache
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\roslyn\csc.exe
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\roslyn\vbc.exe
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\roslyn\VBCSCompiler.exe
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\Zadatak31.dll.config
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\Zadatak31.dll
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\Zadatak31.pdb
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\Antlr3.Runtime.dll
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\Microsoft.AI.Web.dll
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\Newtonsoft.Json.dll
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\System.Web.Helpers.dll
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\System.Web.Mvc.dll
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\System.Web.Optimization.dll
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\System.Web.Razor.dll
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\System.Web.WebPages.dll
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\System.Web.WebPages.Razor.dll
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\WebGrease.dll
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\Microsoft.AI.Web.xml
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\System.Web.Helpers.xml
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\System.Web.Mvc.xml
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\System.Web.Optimization.xml
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\System.Web.Razor.xml
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\System.Web.WebPages.xml
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\System.Web.WebPages.Razor.xml
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\Antlr3.Runtime.pdb
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\bin\Newtonsoft.Json.xml
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\obj\Debug\Zadatak31.csprojResolveAssemblyReference.cache
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\obj\Debug\Zadatak31.csproj.CoreCompileInputs.cache
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\obj\Debug\Zadatak31.dll
+C:\Users\Eugen\source\repos\PrikazKupaca\Zadatak31\obj\Debug\Zadatak31.pdb

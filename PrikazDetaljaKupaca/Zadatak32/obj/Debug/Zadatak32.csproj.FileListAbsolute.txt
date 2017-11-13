@@ -1,0 +1,68 @@
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak32\bin\roslyn\csc.exe
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak32\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak32\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak32\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak32\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak32\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak32\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak32\bin\roslyn\System.Collections.Immutable.dll
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak32\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak32\bin\roslyn\vbc.exe
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak32\bin\roslyn\VBCSCompiler.exe
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak32\bin\roslyn\VBCSCompiler.exe.config
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak32\bin\Zadatak32.dll.config
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak32\bin\Zadatak32.dll
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak32\bin\Zadatak32.pdb
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak32\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak32\bin\Microsoft.Web.Infrastructure.dll
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak32\bin\System.Web.Helpers.dll
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak32\bin\System.Web.Mvc.dll
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak32\bin\System.Web.Razor.dll
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak32\bin\System.Web.Webpages.Deployment.dll
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak32\bin\System.Web.Webpages.dll
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak32\bin\System.Web.Webpages.Razor.dll
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak32\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak32\bin\System.Web.Razor.xml
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak32\bin\System.Web.Webpages.xml
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak32\bin\System.Web.Webpages.Deployment.xml
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak32\bin\System.Web.Webpages.Razor.xml
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak32\bin\System.Web.Helpers.xml
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak32\bin\System.Web.Mvc.xml
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak32\obj\Debug\Zadatak32.dll
+c:\users\eugen\documents\visual studio 2015\Projects\RWA_M2\Zadatak32\obj\Debug\Zadatak32.pdb
+C:\Users\Eugen\Documents\Visual Studio 2015\Projects\RWA_M2\Zadatak32\obj\Debug\Zadatak32.csproj.CoreCompileInputs.cache
+C:\Users\Eugen\Documents\Visual Studio 2015\Projects\RWA_M2\Zadatak32\obj\Debug\Zadatak32.csprojResolveAssemblyReference.cache
+C:\Users\Eugen\source\repos\PrikazDetaljaKupaca\Zadatak32\bin\roslyn\csc.exe
+C:\Users\Eugen\source\repos\PrikazDetaljaKupaca\Zadatak32\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Eugen\source\repos\PrikazDetaljaKupaca\Zadatak32\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eugen\source\repos\PrikazDetaljaKupaca\Zadatak32\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Eugen\source\repos\PrikazDetaljaKupaca\Zadatak32\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Eugen\source\repos\PrikazDetaljaKupaca\Zadatak32\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Eugen\source\repos\PrikazDetaljaKupaca\Zadatak32\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Eugen\source\repos\PrikazDetaljaKupaca\Zadatak32\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Eugen\source\repos\PrikazDetaljaKupaca\Zadatak32\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Eugen\source\repos\PrikazDetaljaKupaca\Zadatak32\bin\roslyn\vbc.exe
+C:\Users\Eugen\source\repos\PrikazDetaljaKupaca\Zadatak32\bin\roslyn\VBCSCompiler.exe
+C:\Users\Eugen\source\repos\PrikazDetaljaKupaca\Zadatak32\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Eugen\source\repos\PrikazDetaljaKupaca\Zadatak32\bin\Zadatak32.dll.config
+C:\Users\Eugen\source\repos\PrikazDetaljaKupaca\Zadatak32\bin\Zadatak32.dll
+C:\Users\Eugen\source\repos\PrikazDetaljaKupaca\Zadatak32\bin\Zadatak32.pdb
+C:\Users\Eugen\source\repos\PrikazDetaljaKupaca\Zadatak32\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eugen\source\repos\PrikazDetaljaKupaca\Zadatak32\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eugen\source\repos\PrikazDetaljaKupaca\Zadatak32\bin\System.Web.Helpers.dll
+C:\Users\Eugen\source\repos\PrikazDetaljaKupaca\Zadatak32\bin\System.Web.Mvc.dll
+C:\Users\Eugen\source\repos\PrikazDetaljaKupaca\Zadatak32\bin\System.Web.Razor.dll
+C:\Users\Eugen\source\repos\PrikazDetaljaKupaca\Zadatak32\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Eugen\source\repos\PrikazDetaljaKupaca\Zadatak32\bin\System.Web.Webpages.dll
+C:\Users\Eugen\source\repos\PrikazDetaljaKupaca\Zadatak32\bin\System.Web.Webpages.Razor.dll
+C:\Users\Eugen\source\repos\PrikazDetaljaKupaca\Zadatak32\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eugen\source\repos\PrikazDetaljaKupaca\Zadatak32\bin\System.Web.Razor.xml
+C:\Users\Eugen\source\repos\PrikazDetaljaKupaca\Zadatak32\bin\System.Web.Webpages.xml
+C:\Users\Eugen\source\repos\PrikazDetaljaKupaca\Zadatak32\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Eugen\source\repos\PrikazDetaljaKupaca\Zadatak32\bin\System.Web.Webpages.Razor.xml
+C:\Users\Eugen\source\repos\PrikazDetaljaKupaca\Zadatak32\bin\System.Web.Helpers.xml
+C:\Users\Eugen\source\repos\PrikazDetaljaKupaca\Zadatak32\bin\System.Web.Mvc.xml
+C:\Users\Eugen\source\repos\PrikazDetaljaKupaca\Zadatak32\obj\Debug\Zadatak32.csprojResolveAssemblyReference.cache
+C:\Users\Eugen\source\repos\PrikazDetaljaKupaca\Zadatak32\obj\Debug\Zadatak32.csproj.CoreCompileInputs.cache
+C:\Users\Eugen\source\repos\PrikazDetaljaKupaca\Zadatak32\obj\Debug\Zadatak32.dll
+C:\Users\Eugen\source\repos\PrikazDetaljaKupaca\Zadatak32\obj\Debug\Zadatak32.pdb

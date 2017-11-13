@@ -1,0 +1,35 @@
+﻿@using Zadatak31.Models
+
+@{
+    ViewBag.Title = "Index";
+    List<Kupac> kupci = ViewBag.kupci;
+}
+
+<h2>Prikaz kupaca</h2>
+
+<form method="post">
+    <div class="form-group">
+        <label>Odaberite grad:</label>
+        <br />
+        @Html.DropDownList(
+           name: "gradID",
+           selectList: (IEnumerable<SelectListItem>)ViewBag.gradovi,
+            htmlAttributes: new { @id = "ddlGrad", @class = "form-control" })
+        <br />
+    </div>
+</form>
+<div id="container">
+    @foreach (Kupac kupac in kupci)
+    {
+        @Html.Partial("_Kupac",kupac)
+        <br />
+    }
+</div>
+
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script>
+    $("#ddlGrad").change(function () {
+        $("form").submit();
+    });
+    
+</script>
